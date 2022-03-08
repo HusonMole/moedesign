@@ -1,18 +1,18 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: 'c711d660c44946fab4c4540a3de33c0c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'MoeDesign',
+  domain: 'https://apricot-gallimimus-56e.notion.site/c711d660c44946fab4c4540a3de33c0c',
+  author: 'HusonMoe',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'goodgoodstudy',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
